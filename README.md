@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## TODO
+
+- Create Shared Module without routing (without --routing) with the Angular CLI
+- Create Components (Navbar, Footer) with angular cli
+- Import shared module in app module
