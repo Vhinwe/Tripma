@@ -31,3 +31,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Create Shared Module without routing (without --routing) with the Angular CLI
 - Create Components (Navbar, Footer) with angular cli
 - Import shared module in app module
+ 
